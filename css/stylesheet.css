@@ -11,7 +11,7 @@ body {
 	color: white;
 }
 
-body h1 {
+body h1  {
   text-align: center;
   color: white;
 }
@@ -48,4 +48,10 @@ div.gallery img {
 div.desc {
     padding: 15px;
     text-align: center;
+}
+footer {
+	    border: 1px solid #ccc;
+		padding: 10px;
+	float:left;
+	display: block;
 }
