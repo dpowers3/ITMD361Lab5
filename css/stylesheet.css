@@ -4,7 +4,7 @@ html {
 }
 
 body {
-	background-image: url:("media/space.png");
+	background-image: url(media/space.png);
 	background-position: bottom;
 background-repeat: no-repeat;
 background-attachment: fixed;
